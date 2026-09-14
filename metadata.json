@@ -1,6 +1,6 @@
 {
   "name": "PhotoAlbum",
-  "description": "A simple photo album to view, upload, and manage your photos.",
+  "description": "A 9 photo grid album with 3 rows and 3 columns of equal dimensions.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
